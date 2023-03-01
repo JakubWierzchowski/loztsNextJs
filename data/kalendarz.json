@@ -1,0 +1,554 @@
+{
+  "calendar": [
+    {
+      "month": "Luty",
+      "details": [
+        {
+          "title": "test",
+          "data": "12.02",
+          "place": "Tomaszów L.",
+          "datamoment": "2023-02-13",
+          "categories": "Żacy",
+          "datamomentInvite": "2023-02-12",
+          "typeofTurnament": [
+            {
+              "title": "WTK/DMW",
+              "table": ["Wybierz kategorię", "Mężczyźni", "Kobiety"]
+            }
+          ]
+        },
+        {
+          "title": "LIGA Runda II-3 LK, II, III, IV LM",
+          "data": "12.02",
+          "place": "Kluby",
+          "categories": "Liga",
+          "datamoment": "2023-02-13",
+          "typeofTurnament": []
+        },
+        {
+          "title": "LIGA Runda II-4 LK, II, III, IV LM",
+          "data": "19.02",
+          "place": "Kluby",
+          "categories": "Liga",
+          "datamoment": "2023-02-20",
+          "typeofTurnament": []
+        },
+        {
+          "title": "WTK KWGPP Żaków",
+          "data": "25.02",
+          "place": "Tomaszów L.",
+          "typeofTurnament": [
+            {
+              "title": "WTK/DMW",
+              "table": ["Wybierz kategorię", "Mężczyźni", "Kobiety"]
+            }
+          ],
+          "categories": "Żacy",
+          "datamoment": "2023-02-26",
+          "datamomentInvite": "2023-02-23",
+          "players": []
+        },
+        {
+          "title": "WTK KWGPP Kadetów",
+          "data": "25.02",
+          "place": "Tomaszów L.",
+          "typeofTurnament": [
+            {
+              "title": "WTK/DMW",
+              "table": ["Wybierz kategorię", "Mężczyźni", "Kobiety"]
+            }
+          ],
+          "categories": "Kadeci",
+          "datamoment": "2023-02-26",
+          "datamomentInvite": "2023-02-23",
+          "players": []
+        },
+        {
+          "title": "WTK KWGPP Młodzików",
+          "data": "26.02",
+          "place": "Tomaszów L.",
+          "typeofTurnament": [
+            {
+              "title": "WTK/DMW",
+              "table": ["Wybierz kategorię", "Mężczyźni", "Kobiety"]
+            }
+          ],
+          "categories": "Młodzicy",
+          "datamoment": "2023-02-27",
+          "datamomentInvite": "2023-02-24",
+          "players": []
+        },
+        {
+          "title": "WTK KWGPP Juniorów",
+          "data": "26.02",
+          "place": "Tomaszów L.",
+          "typeofTurnament": [
+            {
+              "title": "WTK/DMW",
+              "table": ["Wybierz kategorię", "Mężczyźni", "Kobiety"]
+            }
+          ],
+          "categories": "Juniorzy",
+          "datamoment": "2023-02-27",
+          "datamomentInvite": "2023-02-24",
+          "players": []
+        }
+      ]
+    },
+    {
+      "month": "Marzec",
+      "details": [
+        {
+          "title": "3 GPP Juniorów",
+          "data": "03-05.03",
+          "place": "",
+          "categories": "Juniorzy",
+          "datamoment": "2023-03-06",
+          "typeofTurnament": []
+        },
+        {
+          "title": "3 GPP Młodzików",
+          "data": "03-05.03",
+          "place": "",
+          "categories": "Młodzicy",
+          "datamoment": "2023-03-06",
+          "typeofTurnament": []
+        },
+        {
+          "title": "IMW Młodzików Młodszych",
+          "data": "04.03",
+          "place": "Niedźwiada",
+          "categories": "Młodzicy Młodsi",
+          "typeofTurnament": [
+            {
+              "title": "IMWRest",
+              "table": [
+                "Wybierz kategorię",
+                "Turniej indywidualny mężczyzn",
+                "Turniej indywidualny kobiet",
+                "Gra podwójna kobiet",
+                "Gra podwójna mężczyzn",
+                "Gra mieszana"
+              ]
+            }
+          ],
+          "datamoment": "2023-03-05",
+          "datamomentInvite": "2023-03-02"
+        },
+        {
+          "title": "DMW Młodzieżowców",
+          "data": "05.03",
+          "place": "Niedźwiada",
+          "categories": "Młodzieżowcy",
+          "datamoment": "2023-03-06",
+          "typeofTurnament": [
+            {
+              "title": "WTK/DMW",
+              "table": ["Wybierz kategorię", "Mężczyźni", "Kobiety"]
+            }
+          ],
+          "datamomentInvite": "2023-03-03"
+        },
+        {
+          "title": "IMW Młodzieżowców",
+          "data": "05.03",
+          "place": "Niedźwiada",
+          "categories": "Młodzieżowcy",
+          "datamoment": "2023-03-06",
+          "typeofTurnament": [
+            {
+              "title": "IMWRest",
+              "table": [
+                "Wybierz kategorię",
+                "Turniej indywidualny mężczyzn",
+                "Turniej indywidualny kobiet",
+                "Gra podwójna kobiet",
+                "Gra podwójna mężczyzn",
+                "Gra mieszana"
+              ]
+            }
+          ],
+          "datamomentInvite": "2023-03-03"
+        },
+        {
+          "title": "IMW żaków",
+          "data": "05.03",
+          "place": "Niedźwiada",
+          "categories": "Żacy",
+          "datamoment": "2023-03-06",
+          "typeofTurnament": [
+            {
+              "title": "IMWRest",
+              "table": [
+                "Wybierz kategorię",
+                "Turniej indywidualny mężczyzn",
+                "Turniej indywidualny kobiet",
+                "Gra podwójna kobiet",
+                "Gra podwójna mężczyzn",
+                "Gra mieszana"
+              ]
+            }
+          ],
+          "datamomentInvite": "2023-03-03"
+        },
+        {
+          "title": "3. GPP Kadetów",
+          "data": "10-12.03",
+          "place": "",
+          "categories": "Kadeci",
+          "datamoment": "2023-03-13",
+          "typeofTurnament": []
+        },
+        {
+          "title": "3. GPP Żaków",
+          "data": "10-12.03",
+          "place": "",
+          "categories": "Żacy",
+          "datamoment": "2023-03-13",
+          "typeofTurnament": []
+        },
+        {
+          "title": "EL WOJ. PP K+M",
+          "data": "11.03",
+          "place": "",
+          "categories": "Seniorzy",
+          "datamoment": "2023-03-13",
+          "typeofTurnament": [
+            {
+              "title": "WTK/DMW",
+              "table": ["Wybierz kategorię", "Mężczyźni", "Kobiety"]
+            }
+          ],
+          "datamomentInvite": "2023-03-09"
+        },
+        {
+          "title": "DMW żaków",
+          "data": "11.03",
+          "place": "",
+          "categories": "Żacy",
+          "datamoment": "2023-03-06",
+          "typeofTurnament": [
+            {
+              "title": "WTK/DMW",
+              "table": ["Wybierz kategorię", "Mężczyźni", "Kobiety"]
+            }
+          ],
+          "datamomentInvite": "2023-03-09"
+        },
+
+        {
+          "title": "IMW seniorów",
+          "data": "12.03",
+          "place": "",
+          "categories": "Seniorzy",
+          "datamoment": "2023-03-13",
+          "typeofTurnament": [
+            {
+              "title": "IMWRest",
+              "table": [
+                "Wybierz kategorię",
+                "Turniej indywidualny mężczyzn",
+                "Turniej indywidualny kobiet",
+                "Gra podwójna kobiet",
+                "Gra podwójna mężczyzn",
+                "Gra mieszana"
+              ]
+            }
+          ],
+          "datamomentInvite": "2023-03-10"
+        },
+
+        {
+          "title": "DMW skrzatów",
+          "data": "12.03",
+          "place": "",
+          "categories": "Skrzaci",
+          "datamoment": "2023-03-13",
+          "typeofTurnament": [
+            {
+              "title": "WTK/DMW",
+              "table": ["Wybierz kategorię", "Mężczyźni", "Kobiety"]
+            }
+          ],
+          "datamomentInvite": "2023-03-10"
+        },
+        {
+          "title": "Akademickie MP",
+          "data": "18-19.03",
+          "place": "",
+          "categories": "Młodzieżowcy",
+          "datamoment": "2023-03-20",
+          "typeofTurnament": []
+        },
+        {
+          "title": "IMW KADETÓW",
+          "data": "18.03",
+          "place": "Niedźwiada",
+          "categories": "Kadeci",
+          "datamoment": "2023-03-19",
+          "typeofTurnament": [
+            {
+              "title": "IMWRest",
+              "table": [
+                "Wybierz kategorię",
+                "Turniej indywidualny mężczyzn",
+                "Turniej indywidualny kobiet",
+                "Gra podwójna kobiet",
+                "Gra podwójna mężczyzn",
+                "Gra mieszana"
+              ]
+            }
+          ],
+          "datamomentInvite": "2023-03-16"
+        },
+        {
+          "title": "IMW SKRZATÓW",
+          "data": "18.03",
+          "place": "Niedźwiada",
+          "categories": "Skrzaci",
+          "datamoment": "2023-03-19",
+          "typeofTurnament": [
+            {
+              "title": "IMW",
+              "table": [
+                "Wybierz kategorię",
+                "Turniej indywidualny chłopców",
+                "Turniej indywidualny dziewcząt",
+                "Gra podwójna dziewcząt",
+                "Gra podwójna chłopców"
+              ]
+            }
+          ],
+          "datamomentInvite": "2023-03-10"
+        },
+        {
+          "title": "DMW MŁODZIKÓW",
+          "data": "19.03",
+          "place": "Niedźwiada",
+          "categories": "Młodzicy",
+          "datamoment": "2023-03-20",
+          "typeofTurnament": [
+            {
+              "title": "WTK/DMW",
+              "table": ["Wybierz kategorię", "Mężczyźni", "Kobiety"]
+            }
+          ],
+          "datamomentInvite": "2023-03-17"
+        },
+        {
+          "title": "DMW KADETÓW",
+          "data": "19.03",
+          "place": "Niedźwiada",
+          "categories": "Kadeci",
+          "datamoment": "2023-03-20",
+          "typeofTurnament": [
+            {
+              "title": "WTK/DMW",
+              "table": ["Wybierz kategorię", "Mężczyźni", "Kobiety"]
+            }
+          ],
+          "datamomentInvite": "2023-03-17"
+        },
+        {
+          "title": "DMW JUNIORÓW",
+          "data": "19.03",
+          "place": "Niedźwiada",
+          "categories": "Juniorzy",
+          "datamoment": "2023-03-20",
+          "typeofTurnament": [
+            {
+              "title": "WTK/DMW",
+              "table": ["Wybierz kategorię", "Mężczyźni", "Kobiety"]
+            }
+          ],
+          "datamomentInvite": "2023-03-17"
+        },
+        {
+          "title": "Indywidualne Mistrzostwa Polski Seniorów - PZTS",
+          "data": "24-26.03",
+          "place": "",
+          "categories": "Seniorzy",
+          "datamoment": "2023-03-27",
+          "typeofTurnament": []
+        },
+        {
+          "title": "IMW MŁODZIKÓW",
+          "data": "25.03",
+          "place": "Niedźwiada",
+          "categories": "Młodzicy",
+          "datamoment": "2023-03-26",
+          "typeofTurnament": [
+            {
+              "title": "IMWRest",
+              "table": [
+                "Wybierz kategorię",
+                "Turniej indywidualny mężczyzn",
+                "Turniej indywidualny kobiet",
+                "Gra podwójna kobiet",
+                "Gra podwójna mężczyzn",
+                "Gra mieszana"
+              ]
+            }
+          ],
+          "datamomentInvite": "2023-03-23"
+        },
+        {
+          "title": "IMW JUNIORÓW",
+          "data": "26.03",
+          "place": "Niedźwiada",
+          "categories": "Juniorzy",
+          "datamoment": "2023-03-27",
+          "typeofTurnament": [
+            {
+              "title": "IMWRest",
+              "table": [
+                "Wybierz kategorię",
+                "Turniej indywidualny mężczyzn",
+                "Turniej indywidualny kobiet",
+                "Gra podwójna kobiet",
+                "Gra podwójna mężczyzn",
+                "Gra mieszana"
+              ]
+            }
+          ],
+          "datamomentInvite": "2023-03-24"
+        }
+      ]
+    },
+    {
+      "month": "Kwiecień",
+      "details": [
+        {
+          "title": "DUMW",
+          "data": "01.04",
+          "place": "Łucka?",
+          "categories": "Juniorzy",
+          "datamoment": "2023-04-02",
+          "datamomentInvite": "2023-03-30",
+          "typeofTurnament": [
+            {
+              "title": "WTK/DMW",
+              "table": ["Wybierz kategorię", "Mężczyźni", "Kobiety"]
+            }
+          ],
+          "players": []
+        },
+        {
+          "title": "ITM Łucka",
+          "data": "02.04",
+          "place": "Łucka?",
+          "categories": "Juniorzy",
+          "datamoment": "2023-04-02",
+          "datamomentInvite": "2023-03-30",
+          "typeofTurnament": [
+            {
+              "title": "WTK/DMW",
+              "table": ["Wybierz kategorię", "Mężczyźni", "Kobiety"]
+            }
+          ]
+        },
+        {
+          "title": "LIGA Runda II/5 LK, II, III, IV LM",
+          "data": "02.04",
+          "place": "Kluby",
+          "categories": "Liga",
+          "datamoment": "2023-04-03",
+          "typeofTurnament": []
+        },
+        {
+          "title": "BARAŻE LIGA LOZTS - 1",
+          "data": "15.04",
+          "place": "Kluby",
+          "categories": "Liga",
+          "datamoment": "2023-04-16",
+          "typeofTurnament": []
+        },
+        {
+          "title": "MMM",
+          "data": "15.04",
+          "place": "Białystok",
+          "categories": "",
+          "datamoment": "2023-04-17",
+          "typeofTurnament": []
+        },
+        {
+          "title": "BARAŻE LIGA LOZTS - 2",
+          "data": "16.04",
+          "place": "Kluby",
+          "categories": "Liga",
+          "datamoment": "2023-04-17",
+          "typeofTurnament": []
+        },
+        {
+          "title": "BARAŻE LIGA LOZTS – 3 (IV LM 3m/III LM 10m)",
+          "data": "22.04",
+          "place": "Kluby",
+          "categories": "Liga",
+          "datamoment": "2023-04-23",
+          "typeofTurnament": []
+        },
+        {
+          "title": "BARAŻE LIGA LOZTS – 4 (IV LM 3m/III LM 10m)",
+          "data": "23.04",
+          "place": "Kluby",
+          "categories": "Liga",
+          "datamoment": "2023-04-24",
+          "typeofTurnament": []
+        },
+        {
+          "title": "Mistrzostwa Polski Juniorów",
+          "data": "27-30.04",
+          "place": "",
+          "categories": "Juniorzy",
+          "datamoment": "2023-04-31",
+          "typeofTurnament": []
+        },
+        {
+          "title": "Mistrzostwa Polski Kadetów (OOM - ZPM)",
+          "data": "11-14.05",
+          "place": "",
+          "categories": "Kadeci",
+          "datamoment": "2023-05-15",
+          "typeofTurnament": []
+        }
+      ]
+    },
+    {
+      "month": "Maj",
+      "details": [
+        {
+          "title": "Mistrzostwa Polski Kadetów (OOM - ZPM)",
+          "data": "11-14.05",
+          "place": "",
+          "categories": "Kadeci",
+          "datamoment": "2023-05-15",
+          "typeofTurnament": []
+        },
+        {
+          "title": "Mistrzostwa Polski Młodzików",
+          "data": "19-21.05",
+          "place": "",
+          "categories": "Młodzicy",
+          "datamoment": "2023-05-22",
+          "typeofTurnament": []
+        },
+        {
+          "title": "35. Młodzieżowe Mistrzostwa Polski",
+          "data": "01-04.06",
+          "place": "",
+          "categories": "Młodzieżowcy",
+          "datamoment": "2023-06-05",
+          "typeofTurnament": []
+        },
+        {
+          "title": "Indywidualne Mistrzostwa Polski Żaków",
+          "data": "03-04.06",
+          "place": "",
+          "categories": "Żacy",
+          "datamoment": "2023-06-05",
+          "typeofTurnament": []
+        }
+      ]
+    }
+  ]
+}

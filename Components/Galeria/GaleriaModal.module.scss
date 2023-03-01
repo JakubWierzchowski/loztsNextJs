@@ -1,0 +1,26 @@
+.galleryImg {
+  cursor: pointer;
+  object-fit: cover;
+  z-index: 10;
+}
+
+.next {
+  position: absolute;
+  font-size: 40px;
+  top: 50%;
+  right: 80px;
+}
+
+.prev {
+  position: absolute;
+  top: 50%;
+  left: 80px;
+  font-size: 40px;
+}
+
+.close {
+  position: absolute;
+  top: 0 !important;
+  right: 0 !important;
+  color: rebeccapurple !important;
+}

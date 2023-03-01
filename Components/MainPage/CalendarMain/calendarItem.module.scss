@@ -1,0 +1,75 @@
+.eventsPart {
+  display: grid;
+  grid-template-columns: 100px 200px;
+  gap: 20px;
+  grid-auto-flow: row dense;
+  margin-bottom: 24px;
+}
+
+.eventsPartDate {
+  background-color: #f71735c0;
+  border-radius: 3px;
+  color: #fff;
+  margin-right: 16px;
+  padding: 8px;
+  min-width: 110px;
+}
+.eventsPartDate__day {
+  font-size: 18px;
+  text-align: center;
+}
+.eventsPartContent {
+  margin: 0 0 0 0;
+}
+.h4 {
+  font-size: 18px;
+  color: #1e1e24;
+  font-weight: 400;
+  justify-content: baseline;
+  margin: 0px;
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1163px) {
+  .eventsPart {
+    margin-bottom: 22px;
+  }
+  .eventsPartDate {
+    height: 50px;
+  }
+  .eventsPartDate__day {
+    font-size: 18px;
+    white-space: nowrap;
+  }
+  .eventsPartContent {
+    margin-left: 0;
+    margin: 0;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .eventsPart {
+    margin-bottom: 18px;
+  }
+  .eventsPartDate {
+    height: 38px;
+    min-width: 80px;
+  }
+  .eventsPartDate__day {
+    font-size: 15px;
+    white-space: nowrap;
+  }
+  .eventsPartContent {
+    margin-left: 0;
+    margin: 0;
+  }
+  .h4 {
+    font-size: 15px;
+    padding-top: 0px;
+    margin: 0px;
+    line-height: 20px;
+    text-align: left;
+  }
+}
+@media screen and (min-width: 375px) and (max-width: 424px) {
+}
+@media screen and (min-width: 320px) and (max-width: 374px) {
+}

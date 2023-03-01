@@ -1,0 +1,42 @@
+$column-gutter: 24px;
+$columns: 3;
+$row-gutter: 40px;
+.gallery {
+  width: 100%;
+  padding: 10px;
+  background: #fff;
+  columns: 3;
+  column-gap: 10px;
+}
+.galleryItem {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .gallery {
+    padding: 15px;
+    columns: 2;
+  }
+  .galleryItem {
+    margin-bottom: 15px;
+  }
+}
+
+@media only screen and (max-width: 424px) {
+  .gallery {
+    padding: 15px;
+    columns: 1;
+  }
+  .galleryItem {
+    margin-bottom: 10px;
+  }
+}

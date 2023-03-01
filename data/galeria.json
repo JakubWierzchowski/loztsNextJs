@@ -1,0 +1,484 @@
+{
+  "allData": [
+    {
+      "id": "1",
+      "sezon": "Sezon 2022/2023 r.",
+      "data": [
+        {
+          "ID": "Szkolny mikołajkowy turniej",
+          "text": "Szkolny mikołajkowy turniej",
+          "firstPhoto": "images/turnieje/SzkolnyMikolajkowy/1.jpeg",
+          "link": [
+            {
+              "img": "/images/turnieje/SzkolnyMikolajkowy/1.jpeg"
+            },
+            {
+              "img": "/images/turnieje/SzkolnyMikolajkowy/2.jpeg"
+            },
+            {
+              "img": "/images/turnieje/SzkolnyMikolajkowy/3.jpeg"
+            },
+            {
+              "img": "/images/turnieje/SzkolnyMikolajkowy/4.jpeg"
+            },
+            {
+              "img": "/images/turnieje/SzkolnyMikolajkowy/5.jpeg"
+            },
+            {
+              "img": "/images/turnieje/SzkolnyMikolajkowy/6.jpeg"
+            },
+            {
+              "img": "/images/turnieje/SzkolnyMikolajkowy/7.jpeg"
+            },
+            {
+              "img": "/images/turnieje/SzkolnyMikolajkowy/8.jpeg"
+            },
+
+            {
+              "img": "/images/turnieje/SzkolnyMikolajkowy/10.jpeg"
+            },
+            {
+              "img": "/images/turnieje/SzkolnyMikolajkowy/11.jpeg"
+            },
+            {
+              "img": "/images/turnieje/SzkolnyMikolajkowy/12.jpeg"
+            },
+            {
+              "img": "/images/turnieje/SzkolnyMikolajkowy/13.jpeg"
+            },
+            {
+              "img": "/images/turnieje/SzkolnyMikolajkowy/14.jpeg"
+            },
+            {
+              "img": "/images/turnieje/SzkolnyMikolajkowy/15.jpeg"
+            },
+            {
+              "img": "/images/turnieje/SzkolnyMikolajkowy/16.jpeg"
+            },
+            {
+              "img": "/images/turnieje/SzkolnyMikolajkowy/17.jpeg"
+            },
+            {
+              "img": "/images/turnieje/SzkolnyMikolajkowy/18.jpeg"
+            },
+            {
+              "img": "/images/turnieje/SzkolnyMikolajkowy/19.jpeg"
+            },
+            {
+              "img": "/images/turnieje/SzkolnyMikolajkowy/20.jpeg"
+            }
+          ]
+        },
+        {
+          "ID": "II WTK Młodzikw, Juniorów, Seniorów 5-6.12.2022",
+          "text": "II WTK Młodzików, Juniorów, Seniorów 5-6.12.2022 r.",
+          "firstPhoto": "images/turnieje/IIWTKMJS/1.jpeg",
+          "link": [
+            { "img": "/images/turnieje/IIWTKMJS/1.jpeg" },
+            { "img": "/images/turnieje/IIWTKMJS/2.jpeg" },
+            { "img": "/images/turnieje/IIWTKMJS/3.jpeg" },
+            { "img": "/images/turnieje/IIWTKMJS/4.jpeg" },
+            { "img": "/images/turnieje/IIWTKMJS/5.jpeg" },
+            { "img": "/images/turnieje/IIWTKMJS/6.jpeg" },
+            { "img": "/images/turnieje/IIWTKMJS/7.jpeg" },
+            { "img": "/images/turnieje/IIWTKMJS/8.jpeg" },
+            { "img": "/images/turnieje/IIWTKMJS/9.jpeg" },
+            { "img": "/images/turnieje/IIWTKMJS/10.jpeg" },
+            { "img": "/images/turnieje/IIWTKMJS/11.jpeg" },
+            { "img": "/images/turnieje/IIWTKMJS/12.jpeg" },
+            { "img": "/images/turnieje/IIWTKMJS/13.jpeg" },
+            { "img": "/images/turnieje/IIWTKMJS/14.jpeg" },
+            { "img": "/images/turnieje/IIWTKMJS/15.jpeg" },
+            { "img": "/images/turnieje/IIWTKMJS/16.jpeg" },
+            { "img": "/images/turnieje/IIWTKMJS/17.jpeg" },
+            { "img": "/images/turnieje/IIWTKMJS/18.jpeg" },
+            { "img": "/images/turnieje/IIWTKMJS/19.jpeg" },
+            { "img": "/images/turnieje/IIWTKMJS/20.jpeg" },
+            { "img": "/images/turnieje/IIWTKMJS/21.jpeg" }
+          ]
+        },
+        {
+          "ID": "IWTK Seniorow 18.09.2022",
+          "text": "IWTK Seniorów 18.09.2022 r.",
+          "firstPhoto": "images/turnieje/WTKSeniorowI18IX2022/1.jpeg",
+          "link": [
+            { "img": "/images/turnieje/WTKSeniorowI18IX2022/1.jpeg" },
+            { "img": "/images/turnieje/WTKSeniorowI18IX2022/2.jpeg" },
+            { "img": "/images/turnieje/WTKSeniorowI18IX2022/3.jpeg" },
+            { "img": "/images/turnieje/WTKSeniorowI18IX2022/4.jpeg" },
+            { "img": "/images/turnieje/WTKSeniorowI18IX2022/5.jpeg" },
+            { "img": "/images/turnieje/WTKSeniorowI18IX2022/6.jpeg" },
+            { "img": "/images/turnieje/WTKSeniorowI18IX2022/7.jpeg" },
+            { "img": "/images/turnieje/WTKSeniorowI18IX2022/8.jpeg" },
+            { "img": "/images/turnieje/WTKSeniorowI18IX2022/9.jpeg" },
+            { "img": "/images/turnieje/WTKSeniorowI18IX2022/10.jpeg" },
+            { "img": "/images/turnieje/WTKSeniorowI18IX2022/11.jpeg" },
+            { "img": "/images/turnieje/WTKSeniorowI18IX2022/12.jpeg" },
+            { "img": "/images/turnieje/WTKSeniorowI18IX2022/13.jpeg" },
+            { "img": "/images/turnieje/WTKSeniorowI18IX2022/14.jpeg" },
+            { "img": "/images/turnieje/WTKSeniorowI18IX2022/15.jpeg" }
+          ]
+        },
+        {
+          "ID": "I WTK zakow I kadetow - 10.09.2022",
+          "text": "I WTK zakow I kadetow - 10.09.2022 r.",
+          "firstPhoto": "images/turnieje/IWTKZakowKadetow10IX2022/1.jpeg",
+          "link": [
+            { "img": "/images/turnieje/IWTKZakowKadetow10IX2022/1.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowKadetow10IX2022/2.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowKadetow10IX2022/3.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowKadetow10IX2022/4.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowKadetow10IX2022/5.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowKadetow10IX2022/6.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowKadetow10IX2022/7.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowKadetow10IX2022/8.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowKadetow10IX2022/9.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowKadetow10IX2022/10.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowKadetow10IX2022/11.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowKadetow10IX2022/12.jpeg" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "sezon": "Sezon 2021/2022 r.",
+      "data": [
+        {
+          "ID": "Jubileuszowe MW 2-3.04.2022",
+          "text": "Jubileuszowe MW 2-3.04.2022 r.",
+          "firstPhoto": "images/turnieje/JubileuszoweMW/1.jpg",
+          "link": [
+            { "img": "/images/turnieje/JubileuszoweMW/1.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/2.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/3.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/4.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/5.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/6.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/7.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/8.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/9.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/10.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/11.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/12.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/13.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/14.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/15.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/16.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/17.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/18.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/19.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/20.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/21.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/22.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/23.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/24.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/25.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/26.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/27.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/28.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/29.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/30.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/31.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/32.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/33.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/34.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/35.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/36.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/37.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/38.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/39.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/40.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/41.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/42.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/43.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/44.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/45.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/46.jpg" },
+            { "img": "/images/turnieje/JubileuszoweMW/47.jpg" }
+          ]
+        },
+        {
+          "ID": "IMW i DMW zakow 26.03.2022 r.",
+          "text": "IMW i DMW zakow 26.03.2022 r.",
+          "firstPhoto": "images/turnieje/IMWiDMWzakow/1.jpg",
+          "link": [
+            { "img": "/images/turnieje/IMWiDMWzakow/1.jpg" },
+            { "img": "/images/turnieje/IMWiDMWzakow/2.jpg" },
+            { "img": "/images/turnieje/IMWiDMWzakow/3.jpg" },
+            { "img": "/images/turnieje/IMWiDMWzakow/4.jpg" },
+            { "img": "/images/turnieje/IMWiDMWzakow/5.jpg" },
+            { "img": "/images/turnieje/IMWiDMWzakow/6.jpg" },
+            { "img": "/images/turnieje/IMWiDMWzakow/7.jpg" },
+            { "img": "/images/turnieje/IMWiDMWzakow/8.jpg" },
+            { "img": "/images/turnieje/IMWiDMWzakow/9.jpg" },
+            { "img": "/images/turnieje/IMWiDMWzakow/10.jpg" },
+            { "img": "/images/turnieje/IMWiDMWzakow/11.jpg" },
+            { "img": "/images/turnieje/IMWiDMWzakow/12.jpg" },
+            { "img": "/images/turnieje/IMWiDMWzakow/13.jpg" },
+            { "img": "/images/turnieje/IMWiDMWzakow/14.jpg" },
+            { "img": "/images/turnieje/IMWiDMWzakow/15.jpg" },
+            { "img": "/images/turnieje/IMWiDMWzakow/16.jpg" },
+            { "img": "/images/turnieje/IMWiDMWzakow/17.jpg" }
+          ]
+        },
+        {
+          "ID": "MW skrzatow, mlodzikow mlodszych, seniorow 19-20.03.2022",
+          "text": "MW skrzatów, młodzikow młodszych, seniorów 19-20.03.2022 r.",
+          "firstPhoto": "images/turnieje/MWSkrzatowSeniorowMlodzikiw/1.jpeg",
+          "link": [
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/1.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/2.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/3.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/4.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/5.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/6.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/7.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/8.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/9.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/10.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/11.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/12.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/13.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/14.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/15.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/16.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/17.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/18.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/19.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/20.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/21.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/22.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/23.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/24.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/25.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/26.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/27.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/28.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/29.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/30.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/31.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/32.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/33.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/34.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/35.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/36.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/37.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/38.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/39.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/40.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/41.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/42.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/43.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/44.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/45.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/46.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/47.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/48.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/49.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/50.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/51.jpeg" },
+            { "img": "/images/turnieje/MWSkrzatowSeniorowMlodzikiw/52.jpeg" }
+          ]
+        },
+        {
+          "ID": "III WTK Zakow Mlodzikow Kadetow Juniorow",
+          "text": "III WTK Żakow, Młodzików, Kadetów, Juniorów 26-27.02.2022 r.",
+          "firstPhoto": "images/turnieje/wtkZMKJ/1.jpeg",
+          "link": [
+            { "img": "/images/turnieje/wtkZMKJ/1.jpeg" },
+            { "img": "/images/turnieje/wtkZMKJ/2.jpeg" },
+            { "img": "/images/turnieje/wtkZMKJ/3.jpeg" },
+            { "img": "/images/turnieje/wtkZMKJ/4.jpeg" },
+            { "img": "/images/turnieje/wtkZMKJ/5.jpeg" },
+            { "img": "/images/turnieje/wtkZMKJ/6.jpeg" },
+            { "img": "/images/turnieje/wtkZMKJ/7.jpeg" },
+            { "img": "/images/turnieje/wtkZMKJ/8.jpeg" },
+            { "img": "/images/turnieje/wtkZMKJ/9.jpeg" },
+            { "img": "/images/turnieje/wtkZMKJ/10.jpeg" },
+            { "img": "/images/turnieje/wtkZMKJ/11.jpeg" },
+            { "img": "/images/turnieje/wtkZMKJ/12.jpeg" },
+            { "img": "/images/turnieje/wtkZMKJ/13.jpeg" },
+            { "img": "/images/turnieje/wtkZMKJ/14.jpeg" },
+            { "img": "/images/turnieje/wtkZMKJ/15.jpeg" },
+            { "img": "/images/turnieje/wtkZMKJ/16.jpeg" },
+            { "img": "/images/turnieje/wtkZMKJ/17.jpeg" },
+            { "img": "/images/turnieje/wtkZMKJ/18.jpeg" },
+            { "img": "/images/turnieje/wtkZMKJ/19.jpeg" },
+            { "img": "/images/turnieje/wtkZMKJ/20.jpeg" },
+            { "img": "/images/turnieje/wtkZMKJ/21.jpeg" },
+            { "img": "/images/turnieje/wtkZMKJ/22.jpeg" },
+            { "img": "/images/turnieje/wtkZMKJ/23.jpeg" },
+            { "img": "/images/turnieje/wtkZMKJ/24.jpeg" },
+            { "img": "/images/turnieje/wtkZMKJ/25.jpeg" },
+            { "img": "/images/turnieje/wtkZMKJ/26.jpeg" },
+            { "img": "/images/turnieje/wtkZMKJ/27.jpeg" },
+            { "img": "/images/turnieje/wtkZMKJ/28.jpeg" },
+            { "img": "/images/turnieje/wtkZMKJ/29.jpeg" },
+            { "img": "/images/turnieje/wtkZMKJ/30.jpeg" },
+            { "img": "/images/turnieje/wtkZMKJ/31.jpeg" },
+            { "img": "/images/turnieje/wtkZMKJ/32.jpeg" },
+            { "img": "/images/turnieje/wtkZMKJ/33.jpeg" },
+            { "img": "/images/turnieje/wtkZMKJ/34.jpeg" },
+            { "img": "/images/turnieje/wtkZMKJ/35.jpeg" },
+            { "img": "/images/turnieje/wtkZMKJ/36.jpeg" }
+          ]
+        },
+        {
+          "ID": "III WTK Seniorow Tomaszow Lubelski",
+          "text": "III WTK Seniorów Tomaszów Lubelski 8.01.2022 r.",
+          "firstPhoto": "images/turnieje/WtkSeniorow3/1.jpeg",
+          "link": [
+            { "img": "/images/turnieje/WtkSeniorow3/1.jpeg" },
+            { "img": "/images/turnieje/WtkSeniorow3/2.jpeg" },
+            { "img": "/images/turnieje/WtkSeniorow3/3.jpeg" },
+            { "img": "/images/turnieje/WtkSeniorow3/4.jpeg" },
+            { "img": "/images/turnieje/WtkSeniorow3/5.jpeg" },
+            { "img": "/images/turnieje/WtkSeniorow3/6.jpeg" },
+            { "img": "/images/turnieje/WtkSeniorow3/7.jpeg" },
+            { "img": "/images/turnieje/WtkSeniorow3/8.jpeg" },
+            { "img": "/images/turnieje/WtkSeniorow3/9.jpeg" },
+            { "img": "/images/turnieje/WtkSeniorow3/10.jpeg" },
+            { "img": "/images/turnieje/WtkSeniorow3/11.jpeg" },
+            { "img": "/images/turnieje/WtkSeniorow3/12.jpeg" },
+            { "img": "/images/turnieje/WtkSeniorow3/13.jpeg" }
+          ]
+        },
+        {
+          "ID": "II WTK Zakow i Turniej Mikolajkowy skrzatow",
+          "text": "II WTK żaków i Turniej Mikołajkowy skrzatów - Wola Skromowska 4.12.2021 r.",
+          "firstPhoto": "images/turnieje/MikolajkowyTurniej/1.jpeg",
+          "link": [
+            { "img": "/images/turnieje/MikolajkowyTurniej/1.jpeg" },
+            { "img": "/images/turnieje/MikolajkowyTurniej/2.jpeg" },
+            { "img": "/images/turnieje/MikolajkowyTurniej/3.jpeg" },
+            { "img": "/images/turnieje/MikolajkowyTurniej/4.jpeg" },
+            { "img": "/images/turnieje/MikolajkowyTurniej/5.jpeg" },
+            { "img": "/images/turnieje/MikolajkowyTurniej/6.jpeg" },
+            { "img": "/images/turnieje/MikolajkowyTurniej/7.jpeg" },
+            { "img": "/images/turnieje/MikolajkowyTurniej/8.jpeg" },
+            { "img": "/images/turnieje/MikolajkowyTurniej/9.jpeg" },
+            { "img": "/images/turnieje/MikolajkowyTurniej/10.jpeg" },
+            { "img": "/images/turnieje/MikolajkowyTurniej/11.jpeg" },
+            { "img": "/images/turnieje/MikolajkowyTurniej/12.jpeg" },
+            { "img": "/images/turnieje/MikolajkowyTurniej/13.jpeg" },
+            { "img": "/images/turnieje/MikolajkowyTurniej/14.jpeg" },
+            { "img": "/images/turnieje/MikolajkowyTurniej/15.jpeg" },
+            { "img": "/images/turnieje/MikolajkowyTurniej/16.jpeg" },
+            { "img": "/images/turnieje/MikolajkowyTurniej/17.jpeg" },
+            { "img": "/images/turnieje/MikolajkowyTurniej/18.jpeg" },
+            { "img": "/images/turnieje/MikolajkowyTurniej/19.jpeg" },
+            { "img": "/images/turnieje/MikolajkowyTurniej/20.jpeg" },
+            { "img": "/images/turnieje/MikolajkowyTurniej/21.jpeg" },
+            { "img": "/images/turnieje/MikolajkowyTurniej/22.jpeg" },
+            { "img": "/images/turnieje/MikolajkowyTurniej/23.jpeg" }
+          ]
+        },
+        {
+          "ID": "I WTK Kadetow i Seniorow",
+          "text": "I WTK Kadetów i seniorów 11.IX.2021 r.",
+          "firstPhoto": "images/turnieje/IWTKkadetowSeniorow11IX2021r/1.jpeg",
+          "link": [
+            { "img": "/images/turnieje/IWTKkadetowSeniorow11IX2021r/1.jpeg" },
+            { "img": "/images/turnieje/IWTKkadetowSeniorow11IX2021r/2.jpeg" },
+            { "img": "/images/turnieje/IWTKkadetowSeniorow11IX2021r/3.jpeg" },
+            { "img": "/images/turnieje/IWTKkadetowSeniorow11IX2021r/4.jpeg" },
+            { "img": "/images/turnieje/IWTKkadetowSeniorow11IX2021r/5.jpeg" },
+            { "img": "/images/turnieje/IWTKkadetowSeniorow11IX2021r/6.jpeg" },
+            { "img": "/images/turnieje/IWTKkadetowSeniorow11IX2021r/7.jpeg" },
+            { "img": "/images/turnieje/IWTKkadetowSeniorow11IX2021r/8.jpeg" },
+            { "img": "/images/turnieje/IWTKkadetowSeniorow11IX2021r/9.jpeg" },
+            { "img": "/images/turnieje/IWTKkadetowSeniorow11IX2021r/10.jpeg" },
+            { "img": "/images/turnieje/IWTKkadetowSeniorow11IX2021r/11.jpeg" },
+            { "img": "/images/turnieje/IWTKkadetowSeniorow11IX2021r/12.jpeg" },
+            { "img": "/images/turnieje/IWTKkadetowSeniorow11IX2021r/13.jpeg" },
+            { "img": "/images/turnieje/IWTKkadetowSeniorow11IX2021r/14.jpeg" },
+            { "img": "/images/turnieje/IWTKkadetowSeniorow11IX2021r/15.jpeg" },
+            { "img": "/images/turnieje/IWTKkadetowSeniorow11IX2021r/16.jpeg" },
+            { "img": "/images/turnieje/IWTKkadetowSeniorow11IX2021r/17.jpeg" },
+            { "img": "/images/turnieje/IWTKkadetowSeniorow11IX2021r/18.jpeg" },
+            { "img": "/images/turnieje/IWTKkadetowSeniorow11IX2021r/19.jpeg" },
+            { "img": "/images/turnieje/IWTKkadetowSeniorow11IX2021r/20.jpeg" },
+            { "img": "/images/turnieje/IWTKkadetowSeniorow11IX2021r/21.jpeg" },
+            { "img": "/images/turnieje/IWTKkadetowSeniorow11IX2021r/22.jpeg" },
+            { "img": "/images/turnieje/IWTKkadetowSeniorow11IX2021r/23.jpeg" },
+            { "img": "/images/turnieje/IWTKkadetowSeniorow11IX2021r/24.jpeg" },
+            { "img": "/images/turnieje/IWTKkadetowSeniorow11IX2021r/25.jpeg" }
+          ]
+        },
+        {
+          "ID": "I WTK Mlodzików i Juniorów",
+          "text": "I WTK młodzików i juniorów 5.09.2021 r.",
+          "firstPhoto": "images/turnieje/IWTKmlodzikowJuniorow/1.jpeg",
+          "link": [
+            { "img": "/images/turnieje/IWTKmlodzikowJuniorow/1.jpeg" },
+            { "img": "/images/turnieje/IWTKmlodzikowJuniorow/2.jpeg" },
+            { "img": "/images/turnieje/IWTKmlodzikowJuniorow/3.jpeg" },
+            { "img": "/images/turnieje/IWTKmlodzikowJuniorow/4.jpeg" },
+            { "img": "/images/turnieje/IWTKmlodzikowJuniorow/5.jpeg" },
+            { "img": "/images/turnieje/IWTKmlodzikowJuniorow/6.jpeg" },
+            { "img": "/images/turnieje/IWTKmlodzikowJuniorow/7.jpeg" },
+            { "img": "/images/turnieje/IWTKmlodzikowJuniorow/8.jpeg" },
+            { "img": "/images/turnieje/IWTKmlodzikowJuniorow/9.jpeg" },
+            { "img": "/images/turnieje/IWTKmlodzikowJuniorow/10.jpeg" },
+            { "img": "/images/turnieje/IWTKmlodzikowJuniorow/11.jpeg" },
+            { "img": "/images/turnieje/IWTKmlodzikowJuniorow/12.jpeg" }
+          ]
+        },
+        {
+          "ID": "I WTK Zakow NDST",
+          "text": "I WTK żaków-NDST 4.09.2021 r.",
+          "firstPhoto": "images/turnieje/IWTKZakowNDST/1.jpeg",
+          "link": [
+            { "img": "/images/turnieje/IWTKZakowNDST/1.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowNDST/2.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowNDST/3.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowNDST/4.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowNDST/5.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowNDST/6.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowNDST/7.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowNDST/8.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowNDST/9.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowNDST/10.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowNDST/11.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowNDST/12.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowNDST/13.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowNDST/14.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowNDST/15.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowNDST/16.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowNDST/17.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowNDST/18.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowNDST/19.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowNDST/20.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowNDST/21.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowNDST/22.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowNDST/23.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowNDST/24.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowNDST/25.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowNDST/26.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowNDST/27.jpeg" },
+            { "img": "/images/turnieje/IWTKZakowNDST/28.jpeg" }
+          ]
+        },
+        {
+          "ID": "NDTS OPEN - 4.09.2021 r.",
+          "text": "NDTS OPEN - 4.09.2021 r.",
+          "firstPhoto": "images/turnieje/OpenNdts/1.jpeg",
+          "link": [
+            { "img": "/images/turnieje/OpenNdts/1.jpeg" },
+            { "img": "/images/turnieje/OpenNdts/2.jpeg" },
+            { "img": "/images/turnieje/OpenNdts/3.jpeg" },
+            { "img": "/images/turnieje/OpenNdts/4.jpeg" },
+            { "img": "/images/turnieje/OpenNdts/5.jpeg" },
+            { "img": "/images/turnieje/OpenNdts/6.jpeg" },
+            { "img": "/images/turnieje/OpenNdts/7.jpeg" },
+            { "img": "/images/turnieje/OpenNdts/8.jpeg" },
+            { "img": "/images/turnieje/OpenNdts/9.jpeg" },
+            { "img": "/images/turnieje/OpenNdts/10.jpeg" },
+            { "img": "/images/turnieje/OpenNdts/11.jpeg" }
+          ]
+        }
+      ]
+    }
+  ]
+}

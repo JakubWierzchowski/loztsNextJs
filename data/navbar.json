@@ -1,0 +1,49 @@
+{
+  "NavBar": [
+    {
+      "li": "Artykuły",
+      "link": "/artykuly"
+    },
+    {
+      "li": "Komunikaty",
+      "link": "/komunikaty"
+    },
+
+    {
+      "li": "Informacje",
+      "link": "#",
+      "dropDown": [
+        {
+          "liLi": "Kontakt",
+          "link": "/kontakt"
+        },
+        {
+          "liLi": "Nasze sukcesy",
+          "link": "/naszesukcesy"
+        }
+      ]
+    },
+    {
+      "li": "Liga",
+      "link": "#"
+    },
+    {
+      "li": "Kalendarz",
+      "link": "/kalendarz"
+    },
+    {
+      "li": "Archiwum",
+      "link": "/archiwum",
+      "dropDown": [
+        {
+          "liLi": "Strona archiwalna",
+          "link": "/#"
+        }
+      ]
+    },
+    {
+      "li": "Galeria",
+      "link": "//galeria"
+    }
+  ]
+}

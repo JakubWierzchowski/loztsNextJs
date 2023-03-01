@@ -1,0 +1,468 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,400;0,600;0,700;1,300;1,400&display=swap");
+
+*,
+* ::before,
+*::after {
+  box-sizing: border-box;
+}
+
+:root {
+  box-sizing: border-box;
+  --mainColor: rgb(50, 113, 51);
+  --primary: #f0f3f5;
+  --hover-color: #f0f3f5;
+  --dark: rgb(0, 0, 0);
+  --light: rgb(255, 255, 255);
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  margin: 0 auto !important;
+  background-color: rgb(0, 0, 0);
+  width: 100vw;
+  height: 100vh;
+  background-size: 33.5vw;
+  background: rgb(244, 243, 238);
+}
+
+.main {
+  background: rgb(244, 243, 238);
+  padding-bottom: 20px;
+  max-width: 3000px;
+  margin: 0 auto;
+}
+
+/* .mainBackground {
+  
+                
+
+} */
+
+.header {
+  background: transparent;
+  width: 100vw;
+  position: fixed;
+  z-index: 200;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  color: black;
+  animation: slideTop 0.3s ease-in;
+}
+.mainPathLogo {
+  display: flex;
+  color: black;
+  animation: slideTop 0.3s ease-in;
+}
+
+@keyframes slideTop {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.divIMGlogo {
+  height: 20px;
+  position: relative;
+  top: -10px;
+}
+.logoNameImage {
+  position: relative;
+  margin: 0 auto;
+  padding: 0px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 50%;
+  animation: rotation 20s infinite linear;
+  z-index: 0;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(-360deg);
+  }
+}
+
+.logoName {
+  margin: 0 6px;
+  font-size: 15px;
+}
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  padding: 20px 0px;
+}
+
+.menu {
+  display: grid;
+  width: 100%;
+  direction: ltr;
+  -webkit-box-align: center;
+  align-items: center;
+  grid-template-columns: repeat(28, minmax(0px, 1fr));
+  gap: 0px;
+  padding: 0;
+}
+
+.leftMenu {
+  grid-column: 2 / span 9;
+}
+.flexLeft {
+  /* -webkit-box-align: center; */
+  align-items: center;
+  display: flex;
+  /* width: 100%; */
+  /* -webkit-box-pack: start; */
+  /* justify-content: flex-start; */
+}
+
+.centerMenu {
+  grid-column: 11 / span 8;
+  text-align: center;
+}
+
+.flexCenter {
+  display: inline-block;
+  vertical-align: top;
+  max-width: 100%;
+}
+
+.rightMenu {
+  grid-column: 19 / span 9;
+}
+
+.flexRight {
+  -webkit-box-align: center;
+  align-items: center;
+  display: flex;
+  width: 100%;
+  -webkit-box-pack: end;
+  justify-content: flex-end;
+}
+.menu li {
+  list-style: none;
+}
+.menu div div li a {
+  display: block;
+  text-decoration: none;
+  font-size: 1rem;
+  color: var(--hover-color);
+  color: rgb(0, 0, 0);
+}
+
+/* Styling submenu */
+.has-dropdown {
+  position: relative;
+  z-index: 10;
+  /* background-color: #f0f3f5; */
+  color: #0092f3;
+  border-radius: 10px;
+  padding: 10px;
+}
+.submenu {
+  position: absolute;
+  padding: 0px;
+  left: 0;
+  white-space: nowrap;
+  background-color: #7ac6f8;
+  opacity: 0;
+  transform: scaleY(0);
+  transform-origin: top center;
+  padding: 6px 12px;
+  border-radius: 10px 10px 10px 10px;
+}
+
+.submenu > li > a {
+  color: #000000;
+  padding: 6px 12px;
+  width: auto;
+}
+.submenu .submenu {
+  left: -100%;
+  top: 0;
+}
+.submenu .submenu .submenu {
+  left: -100%;
+  top: 0;
+}
+
+/* .menu > li:hover > a,
+.submenu > li:hover > a {
+  text-decoration-line: underline;
+  text-underline-offset: 8px;
+  cursor: pointer;
+  transition-timing-function: cubic-bezier(0.25, 0.1, 0.25, 1);
+} */
+span {
+  display: block;
+  cursor: pointer;
+  position: relative;
+  padding: 0.2em 0;
+  color: #ffffff;
+  /* margin-right: 12px; */
+}
+span:after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 1.5px;
+  background-color: rgb(0, 0, 0);
+  bottom: 0;
+  left: 0;
+  transform: scaleX(0);
+  transform-origin: bottom right;
+  transition: transform 0.25s linear;
+}
+span:hover:after {
+  transform-origin: bottom left;
+  transform: scaleX(1);
+}
+
+.menu > div > div > li:hover > a + .submenu,
+.submenu > li:hover > a + .submenu {
+  opacity: 1;
+  transform: scaleY(1);
+}
+
+.menu > li:hover > a > .arrow,
+.submenu > li:hover > a > .arrow {
+  transform: rotate(225deg);
+}
+
+@media (max-width: 1146px) {
+  body {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .navbar {
+    position: absolute !important;
+    margin: 0;
+    padding: 30px;
+    /* right: -400px; */
+    width: 30px;
+    top: 40px;
+    right: 0;
+  }
+  .header {
+    /*     position: relative; */
+    display: flex;
+    justify-content: center;
+
+    /* left: -120px; */
+    padding: 0;
+    text-align: center;
+  }
+  .menu {
+    flex-flow: column;
+    background-color: #f0f3f5;
+    right: 0px;
+    margin: 0;
+    top: 59.5px;
+    width: 220px;
+    row-gap: 24px;
+    align-items: center;
+    padding: 12px 12px;
+    transition: all 0.2s;
+    opacity: 0;
+    transform: scaleY(0);
+    transform-origin: top center;
+    transition: 200ms transform cubic-bezier(0.36, 0.4, 0.42, 1.48) 100ms,
+      100ms opacity ease-in-out;
+
+    overflow-y: hidden;
+  }
+  .menu > li > a {
+    font-size: 1rem;
+    color: var(--dark);
+  }
+  .submenu > li > a {
+    font-size: 1rem;
+  }
+
+  .submenu {
+    top: 0;
+    padding-left: 1.5em;
+    border-left: 0.12em dotted hsla(342, 99%, 45%, 0.95);
+  }
+  .submenu .submenu {
+    left: 0;
+    top: 0;
+  }
+  .submenu .submenu .submenu {
+    left: 0;
+    top: 0;
+  }
+
+  .menu > li:hover > a + .submenu,
+  .submenu > li:hover > a + .submenu {
+    position: relative;
+  }
+
+  .hamburger {
+    position: absolute !important;
+    top: 0;
+    left: 0;
+    width: 2em;
+    height: 0.25em;
+    background: var(--light);
+    cursor: pointer;
+    transition: 0.2s transform ease-in-out;
+  }
+  .hamburger::after,
+  .hamburger::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    background: inherit;
+    width: inherit;
+    height: inherit;
+
+    transition: 0.2s transform ease-in-out;
+  }
+
+  .hamburger::after {
+    top: 0.65em;
+  }
+  .hamburger::before {
+    bottom: 0.65em;
+  }
+
+  .close::after,
+  .close::before {
+    top: 0;
+    transition: 0.2s transform ease-in-out;
+  }
+  .close::before {
+    display: none;
+  }
+  .close {
+    transform: rotate(45deg);
+    transition: 0.2s transform ease-in-out;
+  }
+  .close::after {
+    transform: rotate(-90deg);
+  }
+
+  /* reveal menu */
+  input[type="checkbox"]:checked + .menu {
+    position: absolute;
+    opacity: 1;
+    transform: scaleY(1);
+  }
+}
+
+h2 {
+  text-align: center;
+}
+
+.firstScheduleName {
+  padding: 60px 0px 1px 0px;
+}
+
+table {
+  border-top: 8px solid var(--mainColor);
+  margin: 0 auto;
+  width: 95%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  table-layout: fixed;
+  text-align: center;
+  border-bottom: 2px solid var(--hover-color);
+}
+
+table,
+td,
+th {
+  font-size: 16px;
+  padding: 6px 8px;
+  color: #000000;
+}
+thead {
+  border-bottom: 5px solid var(--mainColor);
+}
+thead > tr:first-child:hover {
+  background-color: transparent;
+}
+tr:hover {
+  background-color: var(--hover-color);
+}
+
+td {
+  border-right: 2px solid var(--hover-color);
+  text-align: center;
+}
+td:last-child {
+  border-right: none;
+}
+
+@media screen and (min-width: 320px) and (max-width: 424px) {
+  table {
+    border-top: 5px solid rgb(50, 113, 51);
+  }
+  thead {
+    border-bottom: 2px solid rgb(50, 113, 51);
+  }
+  table,
+  td,
+  th {
+    font-size: 12px;
+    padding: 5px;
+  }
+  tr:first-child {
+    background-color: rgba(95, 91, 91, 0131);
+  }
+
+  links {
+    font-size: 12px;
+    text-decoration: none;
+  }
+  links:hover {
+    text-decoration: underline;
+  }
+}
+
+@media screen and (min-width: 425px) and (max-width: 767px) {
+  table {
+    border-top: 6px solid rgb(50, 113, 51);
+  }
+  thead {
+    border-bottom: 3px solid rgb(50, 113, 51);
+  }
+  table,
+  td,
+  th {
+    font-size: 14px;
+  }
+  thead {
+    border-bottom: 3px solid rgb(50, 113, 51);
+  }
+
+  links {
+    font-size: 16px;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  table {
+    border-top: 6px solid rgb(50, 113, 51);
+  }
+  thead {
+    border-bottom: 3px solid rgb(50, 113, 51);
+  }
+  table,
+  td,
+  th {
+    font-size: 12px;
+    padding: 10px;
+  }
+}

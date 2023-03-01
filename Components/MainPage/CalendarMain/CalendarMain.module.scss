@@ -1,0 +1,123 @@
+.boxEvents {
+  // width: 80%;
+  padding: 10px 20px;
+  padding: 0px auto;
+  // margin-left: 40px;
+  height: fit-content;
+  margin-bottom: 20px;
+  background-color: #294a66;
+}
+
+.eventsTitle {
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  padding: 20px;
+  margin-bottom: 18px;
+  text-align: center;
+}
+
+.moreEvents {
+  background-color: #dedede5e;
+  margin: 0 auto;
+  max-width: 20%;
+  text-align: center;
+  margin-top: 40px;
+  padding: 20px;
+  margin-bottom: 30px !important;
+  box-shadow: 10px 10px 20px -10px rgb(0, 0, 0);
+}
+.moreEvents__link {
+  color: #1e1e24 !important;
+  font-size: 20px;
+  font-weight: 500;
+  text-decoration: none;
+}
+.grid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1163px) {
+  .boxEvents {
+    width: 32vw;
+    padding: 10px;
+  }
+  .eventsTitle {
+    font-size: 25px;
+    font-weight: 800;
+    margin-top: 0;
+    margin-bottom: 18px;
+  }
+
+  .moreEvents {
+    text-align: center;
+    font-weight: 500;
+    padding: 5px;
+    margin: 0 auto;
+  }
+  .moreEvents__link {
+    font-size: 20px;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .boxEvents {
+    width: 32vw;
+    padding: 10px;
+    margin-bottom: 50px;
+    margin: 0 auto;
+    top: -4px;
+  }
+  .moreEvents {
+    width: 90%;
+    text-align: center;
+    font-weight: 500;
+    padding: 5px;
+    margin: 0 auto;
+  }
+  .moreEvents__link {
+    font-size: 20px;
+  }
+}
+
+@media screen and (min-width: 425px) and (max-width: 767px) {
+  .boxEvents {
+    display: block;
+    width: 90vw;
+    margin-top: 200px;
+    margin: 30px auto;
+    position: relative;
+  }
+}
+
+@media screen and (min-width: 375px) and (max-width: 424px) {
+  .boxEvents {
+    width: 90vw;
+    margin: 20px auto;
+  }
+  .moreEvents {
+    width: 96%;
+    text-align: center;
+    font-weight: 500;
+    padding: 5px;
+    margin: 0 auto;
+  }
+}
+@media screen and (min-width: 320px) and (max-width: 374px) {
+  .boxEvents {
+    width: 90vw;
+    margin: 20px auto;
+    padding: 5px;
+    top: -150px;
+  }
+  .moreEvents {
+    width: 90%;
+    padding: 5px;
+    margin: 40px auto;
+  }
+  .h3 {
+    margin-bottom: 20px;
+  }
+}

@@ -1,0 +1,114 @@
+.wrapper {
+  padding: 20px 0 20px 0;
+}
+.gridBox {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  margin: 40px;
+  grid-auto-rows: minmax(200px, auto);
+}
+
+.blackBoxTop {
+  width: 300px;
+  height: 350px;
+  background-color: #7ac6f8;
+  transform: translate(-50%, 60%);
+}
+
+.blackBoxBottom {
+  width: 300px;
+  height: 350px;
+  background-color: #97aebd;
+  transform: translate(70%, -50%);
+}
+
+.wrapperIMG {
+  margin: 0 auto;
+  justify-items: center;
+}
+.wrapperIMG2 {
+  position: relative;
+  grid-column: 2 / 3;
+  grid-row: 1/1;
+  margin: auto;
+}
+.image {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto;
+  width: 400px;
+  position: relative;
+  z-index: 9990;
+}
+
+.textStyle {
+  position: relative;
+  top: -10%;
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  text-align: center;
+  justify-content: center;
+  line-height: 30px;
+}
+.textStyle2 {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  text-align: center;
+  justify-content: center;
+}
+
+.signature {
+  justify-content: flex-end;
+}
+
+.LiTitle {
+  text-align: left;
+}
+.description {
+  margin: 10px 0 20px;
+  /* font-weight: 300; */
+  font-size: 20px;
+}
+.hide {
+  height: auto;
+}
+.show {
+  overflow: hidden;
+  max-height: 0;
+}
+
+.date {
+  font-size: 15px;
+  margin-bottom: 7px;
+  text-align: right;
+  line-height: 10px;
+}
+.image {
+  max-width: 100%;
+  margin-bottom: 20px;
+}
+
+.articleTitleHover:hover {
+  background-color: olivedrab;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .grid {
+    margin: 20px;
+    display: block;
+    width: auto;
+  }
+  .UlWrapper {
+    margin-left: 0;
+    padding: 10px 0;
+
+    margin: 20px auto;
+  }
+  .LiWrapper {
+    padding: 5px;
+    margin: 10px 5px;
+  }
+}
